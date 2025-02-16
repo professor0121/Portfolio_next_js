@@ -30,6 +30,7 @@ const Header = () => {
             <motion.li whileHover={{ scale: 1.1 }}><a href="#about" className="hover:text-gray-400">About</a></motion.li>
             <motion.li whileHover={{ scale: 1.1 }}><a href="#projects" className="hover:text-gray-400">Projects</a></motion.li>
             <motion.li whileHover={{ scale: 1.1 }}><a href="#contact" className="hover:text-gray-400">Contact</a></motion.li>
+            <motion.li whileHover={{ scale: 1.1 }}><a href="#skills" className="hover:text-gray-400">Skills</a></motion.li>
           </ul>
         </nav>
       </div>
