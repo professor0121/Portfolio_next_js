@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A sleek and modern portfolio website built with Next.js and Tailwind CSS.",
+    "requirements": ["Next.js", "Tailwind CSS", "Framer Motion"],
+    "image": "/images/hand-drawn-doodle-background_23-2149946713_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Initialize Next.js project",
+      "Install Tailwind CSS and configure",
+      "Create reusable UI components",
+      "Add animations with Framer Motion",
+      "Deploy on Vercel"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Student Dashboard",
+    "description": "A full-stack e-commerce platform with secure authentication and payment gateway integration.",
+    "requirements": ["React", "Node.js", "MongoDB", "Stripe"],
+    "image": "/images/student_bord.jpg",
+    "link":"",
+    "steps": [
+      "Set up backend with Node.js and Express",
+      "Create database schema with MongoDB",
+      "Develop frontend using React",
+      "Integrate payment gateway (Stripe)",
+      "Deploy and secure the application"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Blog CMS",
+    "description": "A custom-built content management system for blogging, featuring markdown support and SEO optimization.",
+    "requirements": ["Next.js", "MongoDB", "Markdown", "SEO"],
+    "image": "/images/tablet-which-you-can-read-blog_1134-226_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Set up Next.js project",
+      "Implement MongoDB for storing blog posts",
+      "Add markdown support",
+      "Optimize for SEO",
+      "Deploy and test"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Task Management App",
+    "description": "A productivity app to manage daily tasks with drag-and-drop functionality.",
+    "requirements": ["React", "Firebase", "Drag-and-Drop"],
+    "image": "/images/business-people-working-office_1308-29330_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Design UI using React",
+      "Set up Firebase for authentication and database",
+      "Implement drag-and-drop feature",
+      "Add task categories and filters",
+      "Deploy and test the app"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Chat Application",
+    "description": "A real-time chat app with user authentication and message history.",
+    "requirements": ["React", "Socket.io", "Node.js", "MongoDB"],
+    "image": "/images/conversation-concept-illustration_114360-1305_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Set up backend with Node.js and Socket.io",
+      "Implement frontend using React",
+      "Add user authentication",
+      "Store chat messages in MongoDB",
+      "Deploy and test"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Weather App",
+    "description": "A weather forecasting app with real-time API integration.",
+    "requirements": ["React", "OpenWeather API", "Tailwind CSS"],
+    "image": "/images/flat-user-interface-concept-with-weather-widgets-web-elements-mobile-design_1284-45211_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Fetch weather data from OpenWeather API",
+      "Design UI using Tailwind CSS",
+      "Display weather details dynamically",
+      "Add location-based search",
+      "Deploy and optimize"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Expense Tracker",
+    "description": "An app to track daily expenses and generate reports.",
+    "requirements": ["React", "Chart.js", "LocalStorage"],
+    "image": "/images/digital-global-connection-network-technology-background_1017-23324_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Design UI using React",
+      "Store expenses in LocalStorage",
+      "Generate visual reports with Chart.js",
+      "Add filters and sorting options",
+      "Deploy and test"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "URL Shortener",
+    "description": "A simple URL shortener with analytics tracking.",
+    "requirements": ["Node.js", "MongoDB", "Express"],
+    "image": "/images/medium-shot-man-wearing-vr-glasses_23-2149126949_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Set up backend with Node.js and Express",
+      "Create MongoDB schema for URLs",
+      "Generate short URLs",
+      "Implement analytics tracking",
+      "Deploy and test"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "AI Image Generator",
+    "description": "An AI-powered tool to generate images from text prompts.",
+    "requirements": ["React", "OpenAI API", "Tailwind CSS"],
+    "image": "/images/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Set up OpenAI API for image generation",
+      "Build UI using React and Tailwind CSS",
+      "Add text input for prompts",
+      "Display generated images",
+      "Deploy and test"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Portfolio Builder",
+    "description": "A web app that allows users to build and customize their portfolios.",
+    "requirements": ["Next.js", "Tailwind CSS", "Firebase"],
+    "image": "/images/flat-design-colored-portfolio-template_23-2149215470_11zon.jpg",
+    "link":"",
+    "steps": [
+      "Set up Next.js and Tailwind CSS",
+      "Implement Firebase for authentication and storage",
+      "Create portfolio templates",
+      "Enable live preview and customization",
+      "Deploy and test"
+    ]
+  }
+]

@@ -7,6 +7,7 @@
  import Project from '../components/Project'
  import Skills from '@/components/Skills'
  import Contact from '@/components/Contact'
+import Achievements from '@/components/Achievements'
  
  const Home = () => {
    return (
@@ -15,6 +16,7 @@
       <HeroSection/>
       <About/>
       <Project/>
+      <Achievements/>
       <Skills/>
       <Contact/>
      </div>

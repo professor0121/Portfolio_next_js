@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Cyber Cecurity",
+      "description": "Ranked among the top 10 in a national-level hackathon.",
+      "date": "2023",
+      "requirements": ["Teamwork", "Problem Solving", "Innovative Thinking"],
+      "steps": [
+        "Participated in the 48-hour hackathon.",
+        "Developed an AI-powered web app.",
+        "Pitched the project to judges and won the top 10 spot."
+      ],
+      "image": "/images/68bd00084917400fa5669972be9b3c4d (1)-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Internship with madquick",
+      "description": "Completed an advanced React.js certification with excellence.",
+      "date": "2024",
+      "requirements": ["React.js Knowledge", "State Management", "Performance Optimization"],
+      "steps": [
+        "Completed 10+ React projects.",
+        "Cleared the certification exam with 95%.",
+        "Received official React certification."
+      ],
+      "image": "/images/Abhishek Kushwaha web developer  (offer  letter)-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Internship with yepsillon",
+      "description": "Completed an advanced React.js certification with excellence.",
+      "date": "2024",
+      "requirements": ["React.js Knowledge", "State Management", "Performance Optimization"],
+      "steps": [
+        "Completed 10+ React projects.",
+        "Cleared the certification exam with 95%.",
+        "Received official React certification."
+      ],
+      "image": "/images/internship-job-landing-page_23-2148746044_11zon.jpg"
+    }
+  ]
+  
