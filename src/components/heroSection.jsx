@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Typical from "react-typical";
+// import Typical from "react-typical";
 
 const HeroSection = () => {
   return (
@@ -27,11 +27,11 @@ const HeroSection = () => {
         transition={{ duration: 0.8 }}
       >
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight">
-          <Typical
+          {/* <Typical
             steps={["Hello, I am a Developer!", 7000, "I love coding!", 7000]}
             loop={Infinity}
             wrapper="span"
-          />
+          /> */}
         </h1>
         <p className="text-lg sm:text-xl md:text-2xl mt-4">
           A Passionate <span className="text-blue-300">Web Developer</span> &{" "}
